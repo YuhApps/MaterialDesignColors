@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Material Design Color constants for Android, which is based on Google's Material Design Color palette,
+ * which can be found at <a hef="https://material.io/design/color/the-color-system.html#tools-for-picking-colors"></a>
+ *
+ * Example:
+ * final int RED_50 = ContextCompat.getColor(context, R.color.pink_700);
+ * val green_600 = ContextCompat.getColor(context, R.color.green_600);
+ * <View android:background-"@color/cyan_400" />
+ *
+ * @author YUH_APPS, https://yuhapps.github.io
+-->
 <resources>
     <!--  reds  -->
     <color name="red_50">#FFEBEE</color>

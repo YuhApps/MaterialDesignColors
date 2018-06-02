@@ -1,3 +1,10 @@
+// Material Design Color constants for Web, which is based on Google's Material Design Color palette,
+// which can be found at <a hef="https://material.io/design/color/the-color-system.html#tools-for-picking-colors"></a>
+//
+// Example: document.getElementById("some-id").style.background = red_500
+//
+// @author YUH_APPS, https://yuhapps.github.io
+
 const red_50 = "#FFEBEE";
 const red_100 = "#FFCDD2";
 const red_200 = "#EF9A9A";

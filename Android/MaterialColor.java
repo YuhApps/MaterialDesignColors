@@ -1,4 +1,14 @@
-import android.graphics.Color
+/**
+ * Material Design Color constants for Android, which is based on Google's Material Design Color palette,
+ * which can be found at <a hef="https://material.io/design/color/the-color-system.html#tools-for-picking-colors"></a>
+ *
+ * Example:
+ * final int RED_50 = MaterialColor.RED_50;
+ *
+ * @author YUH_APPS, https://yuhapps.github.io
+ */
+
+import android.graphics.Color;
 
 public class MaterialColor {
 

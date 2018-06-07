@@ -97,8 +97,8 @@ const blue_A700 = "#2962FF";
 
 const light_blue_50 = "#E1F5FE";
 const light_blue_100 = "#B3E5FC";
-const light_blue_200 = "#81D4fA";
-const light_blue_300 = "#4fC3F7";
+const light_blue_200 = "#81D4FA";
+const light_blue_300 = "#4FC3F7";
 const light_blue_400 = "#29B6FC";
 const light_blue_500 = "#03A9F4";
 const light_blue_600 = "#039BE5";
@@ -267,20 +267,20 @@ const grey_700 = "#616161";
 const grey_800 = "#424242";
 const grey_900 = "#212121";
 const black_1000 = "#000000";
-const white_1000 = "#ffffff";
+const white_1000 = "#FFFFFF";
 
 const blue_grey_50 = "#ECEFF1";
 const blue_grey_100 = "#CFD8DC";
 const blue_grey_200 = "#B0BBC5";
 const blue_grey_300 = "#90A4AE";
 const blue_grey_400 = "#78909C";
-const blue_grey_500 = "#607d8b";
+const blue_grey_500 = "#607D8B";
 const blue_grey_600 = "#546E7A";
 const blue_grey_700 = "#455A64";
-const blue_grey_800 = "#37474f";
+const blue_grey_800 = "#37474F";
 const blue_grey_900 = "#263238";
 
-const transparent_200 = "#af000000";
-const transparent_300 = "#8f000000";
-const transparent_500 = "#3f000000";
+const transparent_200 = "#AF000000";
+const transparent_300 = "#8F000000";
+const transparent_500 = "#3F000000";
 const transparent_1000 = "#00000000";

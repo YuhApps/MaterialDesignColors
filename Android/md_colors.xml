@@ -10,6 +10,7 @@
  *
  * @author YUH_APPS, https://yuhapps.github.io
 -->
+
 <resources>
     <!--  reds  -->
     <color name="red_50">#FFEBEE</color>
@@ -110,8 +111,8 @@
     <!--  light blue -->
     <color name="light_blue_50">#E1F5FE</color>
     <color name="light_blue_100">#B3E5FC</color>
-    <color name="light_blue_200">#81D4fA</color>
-    <color name="light_blue_300">#4fC3F7</color>
+    <color name="light_blue_200">#81D4FA</color>
+    <color name="light_blue_300">#4FC3F7</color>
     <color name="light_blue_400">#29B6FC</color>
     <color name="light_blue_500">#03A9F4</color>
     <color name="light_blue_600">#039BE5</color>
@@ -291,7 +292,7 @@
     <color name="grey_800">#424242</color>
     <color name="grey_900">#212121</color>
     <color name="black_1000">#000000</color>
-    <color name="white_1000">#ffffff</color>
+    <color name="white_1000">#FFFFFF</color>
 
     <!-- blue grey -->
     <color name="blue_grey_50">#ECEFF1</color>
@@ -299,15 +300,15 @@
     <color name="blue_grey_200">#B0BBC5</color>
     <color name="blue_grey_300">#90A4AE</color>
     <color name="blue_grey_400">#78909C</color>
-    <color name="blue_grey_500">#607d8b</color>
+    <color name="blue_grey_500">#607D8B</color>
     <color name="blue_grey_600">#546E7A</color>
     <color name="blue_grey_700">#455A64</color>
-    <color name="blue_grey_800">#37474f</color>
+    <color name="blue_grey_800">#37474F</color>F
     <color name="blue_grey_900">#263238</color>
 
     <!--  transparents  -->
-    <color name="transparent_200">#af000000</color>
-    <color name="transparent_300">#8f000000</color>
-    <color name="transparent_500">#3f000000</color>
+    <color name="transparent_200">#AF000000</color>
+    <color name="transparent_300">#8F000000</color>
+    <color name="transparent_500">#3F000000</color>
     <color name="transparent_1000">#00000000</color>
 </resources>
